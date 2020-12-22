@@ -1,0 +1,14 @@
+.path{
+    stroke:none;
+    fill-rule:nonzero;
+    fill: #630D0C;
+    fill-opacity:1;
+    
+}
+.shaka{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1%;
+   
+  }

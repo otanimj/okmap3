@@ -1,0 +1,131 @@
+.background{
+    background-color: indigo;
+    background-size: cover;
+    background-position: center;
+    background-image: url("/Users/matt/Desktop/okmap/okmap/src/Assets/CommunityFirst-9720-TNiimi-10.jpg");
+    display: flex; 
+    flex-direction: column;
+    justify-content: flex-end;
+}
+.portalscontainer {
+    
+    margin-right: 50%;
+}
+.banner{
+    background-color: rgba(0, 0, 0, 0.4);
+    width: 100%;
+    max-height: 100px;
+    height: 100%;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+}
+.bubble{
+    max-width: 200px;
+    max-height: 200px;
+   position: absolute;
+   top: 5%;
+}
+
+.covercardbox{
+    background-color:transparent;
+    border: 10px;
+    width: 40%;
+    max-height: 30em;
+    position: absolute;
+    z-index: 1;
+    margin-left: 25%;
+    border-radius: 10px 10px 0px 0px;
+    display: flex;
+}
+.covercard{
+    background-color: rgba(255, 255, 255, 0.9);
+    border: 10px;
+    flex: 5;
+    height: 30em;
+   
+    z-index: 1;
+    
+    border-radius: 10px 10px 0px 0px;
+   display: flex;
+   flex-direction: column;
+}
+
+.covercard1{
+    background-color: rgba(255, 255, 255, 1);
+    border: 10px;
+    flex: 10;
+    height: 30em;
+    z-index: 1;
+    border-radius: 10px 10px 0px 0px;
+   display: flex;
+   flex-direction: column;
+    overflow: hidden;
+}
+.coverbutton{
+    max-width: 100px ;
+    max-height: 30px;
+   
+    align-self: center;
+    border: none;
+    background-color: transparent;
+   
+}
+.ci{
+    color: #ffffff
+}
+
+.covercardsection1{
+    flex:1;
+    text-align: left;
+    margin: 5px;
+    font-size: 2em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.covercardsection2{
+    flex:1;
+    text-align: left;
+    text-align-last: left;
+    text-indent: 0;
+    float: left;
+
+    margin: 5px;
+    font-size: 3em;
+}
+.covercardsection3{
+    flex:1;
+   
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.buttoncontainer{
+    display: flex;
+    flex:1
+}
+
+.covercardsection1 > text{
+    margin-left: 1rem;
+}
+
+.covercardsection2 > text{
+    margin-left: 1rem;
+}
+
+.button1{
+    color: #ffffff
+}
+
+.loader{
+    flex: 0;
+    z-index: 0.5;
+    justify-self: center;
+    align-self: center;
+    position: absolute;
+}

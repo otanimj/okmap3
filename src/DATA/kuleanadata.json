@@ -1,0 +1,56 @@
+{
+    "features":[
+        {
+            "properties":{
+                "KULEANA_ID":960,
+                "NAME": "KTA Super Stores - Puainako",
+                "DESCRIPTIO": "Supermarket since the '60s with a deli, large seafood selection & baked goods, open till midnight.",
+                "RATING": "🤙 🤙 🤙 🤙 🤙",
+                "COUPONS":[
+                    "50% OFF POKE", "25% BAKERY" 
+                ]
+
+
+            },
+            "geometry":{
+                "coordinates":[-155.0661531, 19.6937900]
+            }
+
+        },
+        {
+            "properties":{
+                "KULEANA_ID":961,
+                "NAME": "Tacobell",
+                "DESCRIPTIO": "Supermarket since the '60s with a deli, large seafood selection & baked goods, open till midnight.",
+                "RATING": "🤙 🤙 🤙",
+                "COUPONS":[
+                    "50% OFF POKE", "25% BAKERY" 
+                ]
+
+
+            },
+            "geometry":{
+                "coordinates":[-155.0663670, 19.6923428]
+            }
+
+        },
+        {
+            "properties":{
+                "KULEANA_ID":960,
+                "NAME": "Blane's Drive Inn",
+                "DESCRIPTIO": "Supermarket since the '60s with a deli, large seafood selection & baked goods, open till midnight.",
+                "RATING": "🤙 🤙 🤙 🤙 ",
+                "COUPONS":[
+                    "50% OFF POKE", "25% BAKERY" 
+                ]
+
+
+            },
+            "geometry":{
+                "coordinates":[-155.0651155, 19.7015487]
+            }
+
+        }
+
+    ]
+}

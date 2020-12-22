@@ -1,0 +1,32 @@
+.footer{
+    height: 20vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #630D0C;
+}
+.footerwrap{
+    flex:1
+}
+.icon{
+    flex:1
+    
+}
+.icon > img {
+    height: 5em;
+    width: 5em;
+    
+}
+.socialmedia{
+    flex:1;
+    display: flex;
+    justify-content: center;
+   margin-bottom: 10px;
+
+}
+
+a > i {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+  

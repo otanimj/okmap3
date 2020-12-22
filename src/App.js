@@ -1,24 +1,32 @@
-import logo from './logo.svg';
-import './App.css';
+import './style.css';
+import {useState} from 'react'
+import Navbar from './components/Navbar'
+import Cover from './components/Cover'
+import HomeContainer from './components/HomeContainer';
+import About from './components/About'
+import Footer from './components/Footer';
+
 
 function App() {
+
+  const [kaleochat, setKaleoChat] = useState(false)
+  const handleKClick = () => {
+    setKaleoChat('true')
+  }
+
+const [imgstate, setImgState ] = useState('')
+
+  
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+<div style={{backgroundColor:"#f9f7ec"}}>
+  <Navbar handleClick={handleKClick} />
+  <Cover kaleostate={kaleochat} imgstate={imgstate}/>
+  <HomeContainer/>
+  <About/>
+  <Footer/>
+</div>
+    
   );
 }
 

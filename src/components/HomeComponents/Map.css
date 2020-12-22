@@ -1,0 +1,107 @@
+.mapbox{
+    height: 500px;
+}
+.marker-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
+
+  .maplegend{
+    z-index: 1;
+    width: 20%;
+    max-height: 450px;
+    height: 100%;
+    margin-top: 1%;
+    margin-left: 1%;
+    position: absolute;
+    background: #f9f7ec;
+    display: flex;
+    flex-direction: column;
+    border: 5px;
+    border-radius: 5px;
+    overflow: hidden;
+ 
+}
+.black{
+    color: black;
+    flex: 1;
+    font-size: 0.5em;
+}
+.popup{
+    flex-direction: column;
+    max-width: auto;
+    max-height: auto;
+}
+
+.marker{
+    stroke:#630D0C;
+    fill: #f9f7ec;
+    color: #630D0C;
+    width: 24px;
+    height: 24px;
+}
+
+.svg{
+    max-width: 2em;
+    max-height: 2em;
+}
+
+.mapnav{
+    z-index: 2;
+    width: 100%;
+    height: 100%;
+    flex: 1;
+    background-color: #630D0C;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+.mapdata{
+    z-index: 2;
+    width: 100%;
+    height: 90%;
+    flex: 6;
+    display: flex;
+    flex-direction: column; 
+    overflow-y: scroll;
+    margin: 1%;
+  
+}
+.mapimg{
+    height: 30%;
+}
+.texttitle{
+    font-size: 1em;
+    color: #630D0C;
+    font-style: bold;
+}
+.texttitle2{
+    font-size: 1em;
+    color: #630D0C;
+    font-style: bold;
+}
+.textrating{
+    font-size:1em;
+}
+.text{
+    font-size: 0.5em;
+    color: rgba(0, 0, 0, 0.87)
+}
+.icon1{
+    flex:1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.icon1 > img {
+    height: 2em;
+    width: 2em;
+    
+}
+
+
+
+  

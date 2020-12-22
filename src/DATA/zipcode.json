@@ -1,0 +1,53 @@
+{
+    "features":[
+        {
+            "properties":{
+                "_ID":960,
+                "ZIP": 96704,
+                "SCORE": 90 
+
+            },
+            "geometry":{
+                "coordinates":[-155.883, 19.308]
+            }
+
+        },
+        {
+            "properties":{
+                "_ID":961,
+                "ZIP": 96720,
+                "SCORE": 80
+
+            },
+            "geometry":{
+                "coordinates":[-155.098, 19.714]
+            }
+
+        },
+        {
+            "properties":{
+                "_ID":962,
+                "ZIP": 96727,
+                "SCORE": 90 
+
+            },
+            "geometry":{
+                "coordinates":[-155.517, 20.089]
+            }
+
+        },{
+            "properties":{
+                "_ID":963,
+                "ZIP": 96785,
+                "SCORE": 90 
+
+            },
+            "geometry":{
+                "coordinates":[-155.210, 19.448]
+            }
+
+        }
+        
+
+    ]
+}
