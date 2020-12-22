@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.86af57eb.chunk.css",
+    "main.js": "/static/js/main.49251acc.chunk.js",
+    "main.js.map": "/static/js/main.49251acc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c012fedc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c012fedc.js.map",
+    "static/css/2.48b1c4ec.chunk.css": "/static/css/2.48b1c4ec.chunk.css",
+    "static/js/2.966ca7ef.chunk.js": "/static/js/2.966ca7ef.chunk.js",
+    "static/js/2.966ca7ef.chunk.js.map": "/static/js/2.966ca7ef.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.48b1c4ec.chunk.css.map": "/static/css/2.48b1c4ec.chunk.css.map",
+    "static/css/main.86af57eb.chunk.css.map": "/static/css/main.86af57eb.chunk.css.map",
+    "static/js/2.966ca7ef.chunk.js.LICENSE.txt": "/static/js/2.966ca7ef.chunk.js.LICENSE.txt",
+    "static/media/COH COVID.2b36bc7f.png": "/static/media/COH COVID.2b36bc7f.png",
+    "static/media/Cover.css": "/static/media/CommunityFirst-9720-TNiimi-10.e4898f94.jpg",
+    "static/media/CommunityFirstt.1621b7ad.png": "/static/media/CommunityFirstt.1621b7ad.png",
+    "static/media/Gateway.1b45845f.png": "/static/media/Gateway.1b45845f.png",
+    "static/media/KH.fff02e48.png": "/static/media/KH.fff02e48.png",
+    "static/media/VIBRANT.e87508a7.png": "/static/media/VIBRANT.e87508a7.png",
+    "static/media/bzp.99f75449.png": "/static/media/bzp.99f75449.png",
+    "static/media/civil defense logo.b5214e73.jpeg": "/static/media/civil defense logo.b5214e73.jpeg",
+    "static/media/kaleochallenge.e27f6be2.png": "/static/media/kaleochallenge.e27f6be2.png",
+    "static/media/location-pin-svgrepo-com (1).12159fa0.svg": "/static/media/location-pin-svgrepo-com (1).12159fa0.svg",
+    "static/media/mhs logo.57e4731b.png": "/static/media/mhs logo.57e4731b.png",
+    "static/media/rnd.5cd81846.png": "/static/media/rnd.5cd81846.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c012fedc.js",
+    "static/css/2.48b1c4ec.chunk.css",
+    "static/js/2.966ca7ef.chunk.js",
+    "static/css/main.86af57eb.chunk.css",
+    "static/js/main.49251acc.chunk.js"
+  ]
+}
